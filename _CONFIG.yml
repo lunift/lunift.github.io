@@ -1,2 +1,3 @@
 name: Prettier Action
 uses: creyD/prettier_action@v3.3
+url: "lunift.github.io"
