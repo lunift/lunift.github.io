@@ -22,3 +22,5 @@ function navSlide() {
 }
 
 navSlide();
+
+// location.href = location.href.replace(".html", "")
