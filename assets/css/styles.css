@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     scroll-behavior: smooth;
+    text-decoration: none;
 }
 
 nav {
@@ -125,17 +126,14 @@ footer {
 body {
     margin: 0;
     padding: 0;
+    background-color: #b0e4ff;
   }
   
   .section1 {
     width: 100%;
     height: 100vh;
-    background: url(https://lunift.github.io/images/wallpaper1.jpg);
-    background-size: cover;
-    background-position: center;
     display: flex;
     align-items: Center;
     justify-content: center;
-    color: #fff;
     font-size: 2vw;
   }
