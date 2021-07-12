@@ -24,3 +24,9 @@ function navSlide() {
 navSlide();
 
 // location.href = location.href.replace(".html", "")
+
+// alert(window.innerWidth)
+
+if (window.innerWidth <= 640) {
+    window.location.replace("https://lunift.github.io/mobile/");
+}

@@ -61,7 +61,7 @@ nav {
         width: 60%;
     }
 }
-
+/*
 @media screen and (max-width: 768px) {
     body {
         overflow-x: hidden;
@@ -117,7 +117,7 @@ nav {
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
 }
-
+*/
 footer {
     text-align: center;
     align-items: center;
